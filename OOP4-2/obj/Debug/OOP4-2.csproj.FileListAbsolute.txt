@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\GitHub\OOP4-2\OOP4-2\bin\Debug\OOP4-2.exe.config
+C:\Users\Asus\Desktop\GitHub\OOP4-2\OOP4-2\bin\Debug\OOP4-2.exe
+C:\Users\Asus\Desktop\GitHub\OOP4-2\OOP4-2\bin\Debug\OOP4-2.pdb
+C:\Users\Asus\Desktop\GitHub\OOP4-2\OOP4-2\obj\Debug\OOP4-2.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\GitHub\OOP4-2\OOP4-2\obj\Debug\OOP4-2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GitHub\OOP4-2\OOP4-2\obj\Debug\OOP4-2.exe
+C:\Users\Asus\Desktop\GitHub\OOP4-2\OOP4-2\obj\Debug\OOP4-2.pdb
